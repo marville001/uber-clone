@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Uber clone",
+    "githubUrl": "https://github.com/marville001/uber-clone/"
   }
 }
